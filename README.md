@@ -1,4 +1,0 @@
-IDPA
-====
-
-IDPA App
